@@ -8,8 +8,7 @@ And the clientside/frontend is published on [github](https://github.com/OptimalG
 
 The entire thing uses socket.io and React is used on the front-end
 
-# Scripts
+## Scripts
 
 - start - Start the server - src/index.ts (ts-node)
 - devStart - Start the server with automatic reloading - src/index.ts (nodemon and ts-node) (Install developer dependencies to be able to run this)
-
